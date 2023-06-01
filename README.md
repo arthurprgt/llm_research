@@ -2,6 +2,7 @@
 
 ## Table of Contents  
 - [Tools](#tools)
+- [Courses](#courses)
 - [Research papers](#research-papers)
 - [Videos](#videos)
 - [Information](#information)
@@ -13,6 +14,11 @@
 | [Poe](https://poe.com/)                            | Chatbot              |
 | [Leonardo](https://app.leonardo.ai/)               | Image generation     |
 | [OpenAI Whisper](https://github.com/openai/whisper)| Speech-to-Text       |
+
+## Courses
+| Course      | Website        | Instructor |
+| :--------:|:------------:|:------:|
+| [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)| DeepLearning AI | Isa Fulford & Andrew Ng |
 
 ## Research papers
 | Date      | Topic        | Source | Paper                                                            |
