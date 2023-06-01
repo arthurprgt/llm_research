@@ -2,6 +2,8 @@
 
 ## Table of Contents  
 - [Tools](#tools)
+- [Research papers](#research-papers)
+- [Videos](#videos)
 - [Information](#information)
 
 ## Tools
