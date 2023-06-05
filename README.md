@@ -5,7 +5,8 @@
 - [Courses](#courses)
 - [Research papers](#research-papers)
 - [Videos](#videos)
-- [Information](#information)
+- [AI News](#ai-news)
+- [Resources](#resources)
 
 ## Tools
 
@@ -28,7 +29,13 @@
 ## Videos
 - 2023.05.23 - [Andrej Karpathy's State of GPT Presentation at Microsoft Build 2023](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
-## Information
+## AI News
 - [AI Business](https://aibusiness.com/)
 - [The Verge](https://www.theverge.com/ai-artificial-intelligence)
 - [The Batch](https://www.deeplearning.ai/the-batch/)
+
+## Resources
+**Prompt Engineering**
+- [Prompt Engineering Guide](https://www.promptingguide.ai/)
+- [Learn Prompting](https://learnprompting.org/docs/intro)
+- [Awesome Prompts](https://github.com/f/awesome-chatgpt-prompts/blob/main/prompts.csv)
