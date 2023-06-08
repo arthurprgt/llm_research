@@ -1,7 +1,7 @@
 # Useful information for working with LLMs
 
 ## Table of Contents  
-- [Tools](#tools)
+- [Tools](https://github.com/arthurprgt/llm_research/blob/main/tools.md)
 - [Courses](#courses)
 - [Research papers](#research-papers)
 - [Videos](#videos)
