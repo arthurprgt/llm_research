@@ -1,14 +1,15 @@
 # Useful information for working with LLMs
 
-## Table of Contents  
-- [Tools](https://github.com/arthurprgt/llm_research/blob/main/tools.md)
-- [Courses](#courses)
-- [Research papers](#research-papers)
-- [Videos](#videos)
-- [AI News](#ai-news)
-- [Resources](#resources)
+#### Table of Contents
+[LLMs](#llms) - [Tools](#tools) - [Courses](#courses) - [Research papers](#research-papers) - [Videos](#videos) - [AI News](#ai-news) - [Resources](#resources)
 
-## Tools
+### LLMs
+**Open Source**
+| LLM      | Link        | Demo | Paper                                                            |
+| :--------:|:------------:|:------:|:----------------------------------------------------------------:|
+| Falcon [[HF]](https://huggingface.co/tiiuae/falcon-40b)| [Blog Post](https://huggingface.co/blog/falcon) | [Falcon Chat](https://huggingface.co/spaces/HuggingFaceH4/falcon-chat) | -|
+
+### Tools
 
 | Tool                                               | Use                  |
 | :-------------------------------------------------:|:--------------------:|
@@ -16,23 +17,21 @@
 | [Leonardo](https://app.leonardo.ai/)               | Image generation     |
 | [OpenAI Whisper](https://github.com/openai/whisper)| Speech-to-Text       |
 
-## Courses
+### Courses
 | Course      | Website        | Instructor |
 | :--------:|:------------:|:------:|
 | [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)| DeepLearning AI | Isa Fulford & Andrew Ng |
 
-## Research papers
+### Research papers
 | Date      | Topic        | Source | Paper                                                            |
 | :--------:|:------------:|:------:|:----------------------------------------------------------------:|
 | 2017.12.07| Transformers | Google | [Attention is All You Need](https://arxiv.org/pdf/1706.03762.pdf)|
 
-## Videos
+### Videos
 - 2023.05.23 - [Andrej Karpathy's State of GPT Presentation at Microsoft Build 2023](https://www.youtube.com/watch?v=bZQun8Y4L2A)
 
-## AI News
-- [AI Business](https://aibusiness.com/)
-- [The Verge](https://www.theverge.com/ai-artificial-intelligence)
-- [The Batch](https://www.deeplearning.ai/the-batch/)
+### AI News
+[AI Business](https://aibusiness.com/) - [The Verge](https://www.theverge.com/ai-artificial-intelligence) - [The Batch](https://www.deeplearning.ai/the-batch/)
 
 ## Resources
 **Prompt Engineering**
