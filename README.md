@@ -5,9 +5,10 @@
 
 ### LLMs
 **Open Source**
-| LLM      | Link        | Demo | Paper                                                            |
+| LLM      | Size        | Demo | Paper                                                            |
 | :--------:|:------------:|:------:|:----------------------------------------------------------------:|
-| Falcon [[HF]](https://huggingface.co/tiiuae/falcon-40b)| [Blog Post](https://huggingface.co/blog/falcon) | [Falcon Chat](https://huggingface.co/spaces/HuggingFaceH4/falcon-chat) | -|
+| Guanaco [[HF]](https://huggingface.co/timdettmers/guanaco-33b-merged)| 7B - 13B - 33B - 65B | [Guanaco Playground](https://huggingface.co/spaces/uwnlp/guanaco-playground-tgi) | [Arxiv Paper](https://arxiv.org/pdf/2305.14314.pdf)|
+| Falcon [[HF]](https://huggingface.co/tiiuae/falcon-40b-instruct)| 7B - 40B | [Falcon Chat](https://huggingface.co/spaces/HuggingFaceH4/falcon-chat) | [Blog Post](https://huggingface.co/blog/falcon)|
 
 ### Tools
 
